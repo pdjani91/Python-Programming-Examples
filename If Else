@@ -1,0 +1,6 @@
+N = int(input())
+
+if N %2 != 0 or 5<N<21:
+    print ("Weird")
+else:
+    print ("Not Weird")
