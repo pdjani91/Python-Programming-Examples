@@ -1,0 +1,7 @@
+print("********** Print these following lines **********")
+print("This is \\\\ double backslash")
+print("These are /\/\/\/\/\ Mountains")
+print("He is \t Awsome")
+print("\\\" \\n \\t \\\'")
+print(r"Line-A \n Line-B")
+print("\U0001F602")
